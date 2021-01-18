@@ -1,0 +1,3 @@
+#LICENSE
+
+All are opensource
